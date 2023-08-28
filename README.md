@@ -4,7 +4,7 @@
 
 This collection allows developers to test APIs through [Postman](https://www.postman.com/) application.
 
-# Prerequisites
+# Pre-requisites
 
 * Postman desktop or web application
 * Valid subscription to EcoStruxure™ Asset Advisor Ingress API product
