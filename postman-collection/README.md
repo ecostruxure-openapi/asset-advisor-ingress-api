@@ -27,14 +27,14 @@ Edit the collection to configure the variables
 
 Configure the Personal Access Token created in Developer Portal after subscription
 
-![Authorization](./media/configure-token.png)
+![Authorization](../media/configure-token.png)
 
 * Configure Host 
 
-![Host](./media/configure-host.png)
+![Host](../media/configure-host.png)
 
 ## Execute API
 ### **Push Measurements data in Asset Advisor**
 - Trigger the request with request body to push timeseries measurement values in Asset Advisor.
-![push-measurement-request](./media/push-measurement-request.png)
+![push-measurement-request](../media/push-measurement-request.png)
 
